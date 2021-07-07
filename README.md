@@ -1,1 +1,0 @@
-# online_stock_management_system
