@@ -1,0 +1,49 @@
+.heading_c
+{
+    font-family: 'Aclonica';
+    font-size: 60px;
+    color: black;
+}
+.titlebar
+{
+    font-size: large;
+}
+.form_add_quantity {
+    width: 100%;
+    margin-left: 50px;
+    padding-left: 100%;
+  }
+ .input-field {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    height: 5%;
+  }
+  .input-field:focus {
+    border: 2px solid dodgerblue;
+  }
+  /* Set a style for the submit button */
+  .btn {
+    background-color: dodgerblue;
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }
+  .btn:hover {
+    opacity: 1;
+  }
+  .main
+  {
+      /* display:flex;
+      flex-direction: row; */
+      background-size: cover;
+      height: 100%;
+  }
+   #submit
+  {
+      font-size: large;
+  }
+  

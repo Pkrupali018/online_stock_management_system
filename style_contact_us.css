@@ -1,0 +1,161 @@
+.heading_c
+{
+    font-family: 'Aclonica';
+    font-size: 60px;
+    color: black;
+}
+.titlebar
+{
+    font-size: large;
+}
+.team
+{
+    margin-left:2%;
+    position: absolute;
+    -webkit-transform: translateY(8%);
+    -ms-transform: translateY(8%);
+    transform: translateY(8%);
+    z-index: 2;
+    background-origin: content-box;
+    backface-visibility: visible;
+    border-radius: 8%;
+    width:55%;
+    height: 60%;
+    /* margin-top: 10px; */
+}
+*
+{
+    font-size: large;
+    font-family: 'Aref Ruqaa';
+}
+#img_girl1
+{
+    border-radius:50% ;
+    width:100px;
+    height:90px;
+    margin-left:8% ;
+}
+#img_girl2
+{
+    border-radius:50% ;
+    width:100px;
+    height:90px;
+    margin-left:20% ;
+}
+#img_girl3
+{
+    border-radius:50% ;
+    width:100px;
+    height:90px;
+    margin-left:20% ;
+}
+.girl1
+{
+    font-family: 'Aref Ruqaa';
+    font-size: 22px;
+    margin-left:9% ;
+}
+.girl2
+{
+    font-family: 'Aref Ruqaa';
+    font-size: 22px;
+    margin-left:16% ;
+}
+.girl3
+{
+    font-family: 'Aref Ruqaa';
+    font-size: 22px;
+    margin-left:16% ;
+}
+#linkdn1
+{
+    border-radius:20%;
+    width:50px;
+    height:40px;
+    margin-left:12% ;
+}
+#linkdn2
+{
+    border-radius:20%;
+    width:50px;
+    height:40px;
+    margin-left:26% ;
+}
+#linkdn3
+{
+    border-radius:20%;
+    width:50px;
+    height:40px;
+    margin-left:28% ;
+}
+.form_contact {
+    width: 30%;
+    margin-right:80px;
+  }
+.icon {
+     padding: 10px;
+    
+    background:black;
+    color: rgb(238, 95, 95);
+    min-width: 50px;
+    text-align: center;
+    height: fit-content;
+  }
+  
+  .input-field {
+    width: 85%;
+    padding: 10px;
+    outline: none;
+    height: 5%;
+  }
+  
+  .input-field:focus {
+    border: 2px solid dodgerblue;
+  }
+  
+  /* Set a style for the submit button */
+  .btn {
+    background-color: dodgerblue;
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }
+  
+  .btn:hover {
+    opacity: 1;
+  }
+  .main
+  {
+      display:flex;
+      flex-direction: row;
+      background-size: cover;
+      height: 100%;
+  }
+  .backg
+  {
+     /* background-image: url("bg_contact_us.png"); 
+    background-repeat: no-repeat;
+    background-size: cover; */
+    position:relative;
+  }
+  .bg_dev
+  {
+     background:#d8c5c58a;
+     z-index: 1;
+     position: absolute;
+     height:60%;
+     width:55%;
+     margin-left: 3%;
+     border-radius: 5%;
+  }
+  #mail
+  {
+      font-size: large;
+  }
+  #dev
+  {
+      font-size: larger;
+  }
